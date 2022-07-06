@@ -1,6 +1,6 @@
 # vue-project-2.7
 
-This template should help get you started developing with Vue 2 in Vite.
+This template should help get you started developing with Vue 2.7 in Vite.
 
 ## Recommended IDE Setup
 

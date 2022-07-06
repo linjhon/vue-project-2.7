@@ -1,6 +1,5 @@
 <script setup lang="tsx">
 import HelloWorld from "@/components/HelloWorld.vue";
-import { ref } from "vue";
 </script>
 
 <template>
@@ -12,6 +11,7 @@ import { ref } from "vue";
         src="@/assets/logo.svg"
         width="125"
         height="125"
+        aria-disabled="true"
       />
 
       <div class="wrapper">

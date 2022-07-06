@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "pinia": "^2.0.14",
-    "vue": "2.7.2",
+    "vue": "^2.7.3",
     "vue-router": "^3.5.4"
   },
   "devDependencies": {
@@ -26,11 +26,12 @@
     "start-server-and-test": "^1.14.0",
     "typescript": "~4.7.3",
     "vite": "^2.9.13",
+    "vue-template-compiler": "^2.7.3",
     "vue-tsc": "^0.37.3"
   },
   "pnpm": {
     "overrides": {
-      "@cypress/vue>vue": "2.7.2"
+      "@cypress/vue>vue": "2.7.3"
     }
   }
 }

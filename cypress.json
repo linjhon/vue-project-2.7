@@ -1,5 +1,7 @@
 {
   "baseUrl": "http://localhost:5050",
+  "viewportWidth": 1440,
+  "viewportHeight": 660,
   "component": {
     "componentFolder": "src",
     "testFiles": "**/__tests__/*.spec.{js,ts,jsx,tsx}"
